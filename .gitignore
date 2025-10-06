@@ -1,0 +1,13 @@
+# Plugin-generated files
+suavizar_arestas/config.json
+suavizar_arestas/historico.txt
+suavizar_arestas/.primeira_vez
+
+# SketchUp backup files
+*_backup_*.skp
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
